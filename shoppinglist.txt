@@ -3,9 +3,4 @@
 		<li>Apples</li>
 		<li>Ginger</li>
 		<li>Cheese</li>
-		<li>Soba Noodles</li>
-		<li>Ice Cream</li>
-		<li>Chocolate</li>
-		<li>Coconut Milk</li>
-		<li>Snap Peas</li>
 	</ul>
