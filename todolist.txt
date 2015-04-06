@@ -4,4 +4,7 @@
     <li>Watch Netflix</li>
     <li>HTML and CSS Homework</li>
     <li>Cook Dinner</li>
+    <li>Schedule Appointment</li>
+    <li>Respond to Email</li>
+    <li>Buy Plane Tickets</li>
   </ul>
