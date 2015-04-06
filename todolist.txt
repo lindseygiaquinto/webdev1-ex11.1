@@ -1,0 +1,7 @@
+<h1>To Do List</h1>
+  <ul>
+    <li>Laundry</li>
+    <li>Watch Netflix</li>
+    <li>HTML and CSS Homework</li>
+    <li>Cook Dinner</li>
+  </ul>
