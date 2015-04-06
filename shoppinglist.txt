@@ -1,0 +1,8 @@
+<h1>Shopping List</h1>
+	<ul>
+		<li>Apples</li>
+		<li>Ginger</li>
+		<li>Cheese</li>
+		<li>Soba Noodles</li>
+		<li>Ice Cream</li>
+	</ul>
